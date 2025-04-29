@@ -1,1 +1,1 @@
-# Python-KM_CM_LongitudeLatitude
+An implementation of geographical longitude and latitude with high precision using ``decimal.Decimal``.
